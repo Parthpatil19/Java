@@ -1,29 +1,29 @@
-# 🟢 Control Statements in Java
+# Control Statements in Java
 
-A collection of Java programs demonstrating the use of **control statements** such as `if-else`, `switch-case`, and **ternary operators** to solve common programming problems.
-
----
-
-## 📌 Problem Statements -
-
-1. **Even or Odd** – Check whether a number is even or odd.  
-2. **Zero, Positive, or Negative** – Determine the sign of a number.  
-3. **Smallest of Two Numbers** – Find the smallest number among two.  
-4. **Largest of Three Numbers** – Find the largest number among three.  
-5. **Largest of Five Numbers** – Store five numbers in an array and find the largest.  
-6. **Leap Year Checker** – Check whether a year is a leap year or not.  
-7. **Day of the Week** – Display the weekday given a number (0–6) using `switch-case`.  
-8. **Vowel or Consonant** – Determine whether a character is a vowel or consonant.  
-9. **Count Vowels** – Count the number of vowels in a string.  
-10. **Count Consonants** – Count the number of consonants in a string.  
-11. **Square Root Calculator** – Calculate the square root of a number.  
-12. **Cube Root Calculator** – Calculate the cube root of a number.  
-13. **Simple Interest Calculator** – Calculate simple interest.  
-14. **Compound Interest Calculator** – Calculate compound interest.  
-15. **Kilometers to Meters, Centimeters, Millimeters** – Convert distance units.  
-16. **Days to Years, Months, Weeks** – Convert total days into years, months, and weeks.  
-17. **Hours to Minutes and Seconds** – Convert hours into minutes and seconds.  
+A collection of Java programs demonstrating the use of **control statements** such as `if-else`, `switch-case`, and ternary operators to solve common programming problems.  
 
 ---
 
-✨ This project is perfect for beginners to **practice Java control statements** and **conditional logic**.
+## 📝 Problem Statements
+
+- Write a program to accept a number and find whether it is even or odd.  
+- Write a program to accept a number and find whether it is Zero, Positive, or Negative.  
+- Write a program to accept two numbers and find the smallest number.  
+- Write a program to accept three numbers and find the largest number.  
+- Write a program to accept five numbers, store them in an array, and find the largest number.  
+- Write a program to accept a year and check whether it is a Leap Year or not.  
+- Write a program to accept a day of the week (int) and display the weekday (e.g., day=4 → Thursday) using switch case.  
+- Write a program to accept a character and check whether it is a vowel or consonant.  
+- Write a program to count the number of vowels in a string.  
+- Write a program to count the number of consonants in a string.  
+- Write a program to calculate the square root of a number.  
+- Write a program to calculate the cube root of a number.  
+- Write a program to calculate simple interest.  
+- Write a program to calculate compound interest.  
+- Write a program to convert kilometers into meters, centimeters, and millimeters.  
+- Write a program to convert days into years, weeks, and months.  
+- Write a program to convert hours into minutes and seconds.  
+
+---
+
+Made with ❤️ **Java**
